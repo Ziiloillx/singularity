@@ -1,0 +1,10 @@
+api.smoot.apple.com
+configuration.apple.com
+xp.apple.com
+smp-device-content.apple.com
+guzzoni.apple.com
+captive.apple.com
+*.ess.apple.com
+*.push.apple.com
+*.push-apple.com.akadns.net
+17.0.0.0/8
